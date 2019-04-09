@@ -1,0 +1,27 @@
+#!/bin/bash
+clear
+echo "======================" | lolcat
+echo "Author : 14P3RSONAL" | lolcat
+echo "Team : ISL - ICY154" | lolcat
+echo "======================" | lolcat
+figlet Auto Follow | lolcat
+read -p "Nama Anda :" nama;
+echo "Selamat Datang $nama"
+sleep 2
+read -p "Nama Ig Anda:" mer;
+sleep 5
+echo "Masukan Pilihan Anda !" | lolcat
+echo "1.500 Follow Ig
+2.1rb Follow Ig
+3.1.5rb Follow Ig
+4.2rb Follow Ig" | lolcat
+read -p "Pilih Salah Satu :" pil;
+echo "Progres Working" | lolcat
+echo "Send $pil to $mer" | lolcat
+echo "Please Accept This" | lolcat
+termux-setup-storage
+echo "Done !" | lolcat
+termux-setup-storage
+echo "Get $mer" | lolcat
+echo "Get $pil" | lolcat
+echo "Tunggu 10 Menit Follow Auto Masuk" | lolcat
